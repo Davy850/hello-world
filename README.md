@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-My first post on GitHub
+David Burns
+Youngish Web Designer
